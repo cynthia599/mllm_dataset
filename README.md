@@ -23,6 +23,7 @@
 - [VLSBench](datasets/image-text/VLSBench/README.md)
 - [SafeBench](datasets/image-text/SafeBench/README.md)
 - [RTVLM](datasets/image-text/RTVLM/README.md)
+- [FigStep](datasets/image-text/FigStep/README.md)
 
 ## 音频类数据集
 
