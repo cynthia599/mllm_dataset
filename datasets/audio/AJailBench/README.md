@@ -430,9 +430,14 @@ AJailBench 研究：
 
 论文：
 
+arXiv:
+
+https://arxiv.org/abs/2505.15406
 
 
-https://arxiv.org/
+ACL Anthology:
+
+https://aclanthology.org/2026.acl-long.1259/
 
 
 
@@ -442,7 +447,7 @@ Hugging Face：
 
 
 
-https://huggingface.co/
+未公开
 
 
 
