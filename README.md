@@ -14,7 +14,9 @@
 
 ## 图文类数据集
 
-* [MM-SafetyBench](datasets/image-text/MM-SafetyBench)
-* [JailBreakV-28K](datasets/image-text/JailBreakV-28K)
-* \[VLGuard](datasets/image-text/VLGuard)
+## \- \[MM-SafetyBench](./datasets/image-text/MM-SafetyBench/)
+
+## \- \[JailBreakV-28K](./datasets/image-text/JailBreakV-28K/)
+
+## \- \[VLGuard](./datasets/image-text/VLGuard/)
 
