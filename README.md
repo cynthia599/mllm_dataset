@@ -34,6 +34,7 @@
 ## 视频类数据集
 
 - [Video-SafetyBench](datasets/video/Video-SafetyBench/README.md)
+- [MCV-SafetyBench](datasets/video/MCV-SafetyBench/README.md)
 
 ## Omni-modal 数据集
 
