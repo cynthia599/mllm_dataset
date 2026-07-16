@@ -1,0 +1,46 @@
+name: Video-SafetyBench
+
+full_name:
+  Video-SafetyBench: A Benchmark for Safety Evaluation of Video LVLMs
+
+modality:
+  - video
+  - text
+
+task:
+  - video LVLM safety evaluation
+  - video jailbreak evaluation
+
+year:
+  2025
+
+venue:
+  NeurIPS 2025 Datasets and Benchmarks
+
+num_samples:
+  2264
+
+categories:
+  major_categories: 13
+  fine_grained_categories: 48
+
+paper:
+  https://arxiv.org/abs/2505.11842
+
+dataset:
+  https://huggingface.co/datasets/BAAI/Video-SafetyBench
+
+code:
+  https://github.com/flageval-baai/Video-SafetyBench
+
+license:
+  CC-BY-NC-SA-4.0
+
+size:
+  video_tar: 13.2GB
+
+access:
+  gated
+
+local_status:
+  not_downloaded
