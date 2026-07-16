@@ -1,0 +1,68 @@
+name: Omni-SafetyBench
+
+full_name:
+  Omni-SafetyBench: Towards Comprehensive Safety Evaluation of Omni-Modal Large Language Models
+
+modality:
+  - text
+  - image
+  - audio
+  - video
+
+task:
+  - omni-modal safety evaluation
+  - multimodal jailbreak evaluation
+  - safety alignment evaluation
+
+
+year:
+  2025
+
+
+target_models:
+  - omni-modal large language models
+
+
+modalities:
+  text:
+    enabled: true
+
+  image:
+    enabled: true
+
+  audio:
+    enabled: true
+
+  video:
+    enabled: true
+
+
+safety_dimensions:
+  - harmful_content
+  - privacy
+  - social_safety
+  - cyber_safety
+
+
+paper:
+  not_verified
+
+
+dataset:
+  not_verified
+
+
+code:
+  not_verified
+
+
+access:
+  unknown
+
+
+local_status:
+  not_downloaded
+
+
+last_checked:
+  2026-07-16
