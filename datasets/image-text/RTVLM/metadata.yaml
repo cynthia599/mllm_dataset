@@ -1,0 +1,28 @@
+name: RTVLM
+full_name: Red Teaming Visual Language Models
+modality:
+  - image
+  - text
+task:
+  - visual language model red teaming
+  - multimodal safety evaluation
+  - faithfulness evaluation
+  - privacy evaluation
+  - fairness evaluation
+venue: Findings of ACL 2024
+year: 2024
+num_samples: 10200
+num_primary_aspects: 4
+num_subtasks: 10
+primary_aspects:
+  - faithfulness
+  - privacy
+  - safety
+  - fairness
+official_dataset: https://huggingface.co/datasets/MMInstruction/RedTeamingVLM
+paper: https://aclanthology.org/2024.findings-acl.198/
+arxiv: https://arxiv.org/abs/2401.12915
+license: check_official_repository
+access: open
+local_status: not_downloaded
+last_checked: 2026-07-16

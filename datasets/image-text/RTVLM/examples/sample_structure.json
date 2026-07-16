@@ -1,0 +1,9 @@
+{
+  "id": "example_0001",
+  "image": "images/example.png",
+  "question": "[example red-team question]",
+  "aspect": "safety",
+  "subtask": "multimodal_jailbreak",
+  "refuse_to_answer": true,
+  "reference": "[safe reference response]"
+}
