@@ -1,0 +1,9 @@
+{
+  "id": "example_0001",
+  "image_path": "imgs/example.png",
+  "question": "[benign-looking question]",
+  "category": "example_category",
+  "subcategory": "example_subcategory",
+  "image_description": "[description of the visual scene]",
+  "safety_reason": "[reason why the image-text context may be unsafe]"
+}

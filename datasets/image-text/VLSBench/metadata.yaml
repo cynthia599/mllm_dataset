@@ -1,0 +1,24 @@
+name: VLSBench
+full_name: "VLSBench: Unveiling Visual Leakage in Multimodal Safety"
+modality:
+  - image
+  - text
+task:
+  - multimodal safety evaluation
+  - visual safety evaluation
+  - visual leakage analysis
+year: 2025
+num_samples: 2241
+language:
+  - English
+license: Apache-2.0
+key_feature: visual_safety_information_leakage_reduction
+official_dataset: https://huggingface.co/datasets/Foreshhh/vlsbench
+official_code: https://github.com/AI45Lab/VLSBench
+paper: https://arxiv.org/abs/2411.19939
+access: open
+recommended_files:
+  - data.json
+  - imgs.tar
+local_status: downloaded
+last_checked: 2026-07-16
