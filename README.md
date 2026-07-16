@@ -30,4 +30,7 @@
 - [AJailBench](datasets/audio/AJailBench/README.md)
 - [JALMBench](datasets/audio/JALMBench/README.md)
 
+## 视频类数据集
+
+- [Video-SafetyBench](datasets/video/Video-SafetyBench/README.md)
 
