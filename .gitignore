@@ -1,0 +1,33 @@
+# 原始数据集
+data/
+raw_data/
+downloads/
+local_data/
+
+# Hugging Face 缓存
+.cache/
+**/.cache/
+.huggingface/
+
+# 大型压缩文件
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.parquet
+
+# 图片、音频和视频原始数据
+*.wav
+*.mp3
+*.flac
+*.mp4
+*.avi
+*.mov
+
+# 环境与密钥
+.env
+*.token
+
+# Python缓存
+__pycache__/
+*.pyc
