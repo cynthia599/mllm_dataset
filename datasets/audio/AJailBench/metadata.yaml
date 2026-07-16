@@ -1,0 +1,51 @@
+name: AJailBench
+
+modality:
+  - audio
+  - text
+
+task:
+  - audio jailbreak evaluation
+  - audio safety benchmark
+
+year: 2025
+
+num_samples: 1495
+
+attack_types:
+  - tts_attack
+  - adversarial_audio_attack
+  - voice_conversion_attack
+
+risk_categories:
+  - illegal_activity
+  - violence
+  - self_harm
+  - hate_speech
+  - privacy
+  - fraud
+  - cybersecurity
+  - sexual_content
+
+key_feature:
+  audio_based_jailbreak
+
+format:
+  - wav
+  - json
+  - parquet
+
+official_dataset:
+  check_paper_repository
+
+official_code:
+  check_paper_repository
+
+access:
+  open_or_gated
+
+local_status:
+  not_downloaded
+
+last_checked:
+  2026-07-16
