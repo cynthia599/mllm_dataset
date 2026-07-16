@@ -11,3 +11,8 @@
 - 下载脚本
 - 数据读取示例
 - 数据集整理汇报
+
+## 图文类数据集
+
+- [MM-SafetyBench](datasets/image-text/MM-SafetyBench)
+- [JailBreakV-28K](datasets/image-text/JailBreakV-28K)
