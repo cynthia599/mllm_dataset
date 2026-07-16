@@ -34,7 +34,6 @@
 ## 视频类数据集
 
 - [Video-SafetyBench](datasets/video/Video-SafetyBench/README.md)
-- [FigStep](datasets/image-text/FigStep/README.md)
 
 ## Omni-modal 数据集
 
