@@ -24,4 +24,8 @@
 - [SafeBench](datasets/image-text/SafeBench/README.md)
 - [RTVLM](datasets/image-text/RTVLM/README.md)
 
+## 音频类数据集
+
+- [Jailbreak-AudioBench](datasets/audio/Jailbreak-AudioBench/README.md)
+
 
