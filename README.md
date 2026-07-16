@@ -20,5 +20,6 @@
 - [MM-SafetyBench](datasets/image-text/MM-SafetyBench/README.md)
 - [JailBreakV-28K](datasets/image-text/JailBreakV-28K/README.md)
 - [VLGuard](datasets/image-text/VLGuard/README.md)
+- [VLSBench](datasets/image-text/VLSBench/README.md)
 
 
