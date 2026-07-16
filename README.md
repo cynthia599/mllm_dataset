@@ -27,5 +27,6 @@
 ## 音频类数据集
 
 - [Jailbreak-AudioBench](datasets/audio/Jailbreak-AudioBench/README.md)
+- [AJailBench](datasets/audio/AJailBench/README.md)
 
 
