@@ -1,0 +1,7 @@
+{
+  "id": "example_001",
+  "video": "example.mp4",
+  "question": "example query",
+  "category": "harmful_behavior",
+  "source": "MCV-SafetyBench"
+}
