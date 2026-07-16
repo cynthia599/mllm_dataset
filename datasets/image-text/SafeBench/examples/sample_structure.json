@@ -1,0 +1,10 @@
+{
+  "id": "example_0001",
+  "category_id": 1,
+  "category_name": "example_category",
+  "text_path": "text/example.txt",
+  "image_path": "img/example.png",
+  "audio_female_path": "audio_data_female/example.wav",
+  "audio_male_path": "audio_data_male/example.wav",
+  "instruction": "[redacted safety query]"
+}

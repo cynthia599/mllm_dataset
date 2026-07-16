@@ -1,0 +1,30 @@
+name: SafeBench
+modality:
+  - text
+  - image
+  - audio
+task:
+  - multimodal safety evaluation
+  - cross-modal safety evaluation
+  - harmful query evaluation
+num_samples: 2300
+num_categories: 23
+subsets:
+  - MiniBench
+  - SafeBench
+  - MiniBench_Text
+  - SafeBench_Text
+audio_variants:
+  - female_voice
+  - male_voice
+official_dataset: https://huggingface.co/datasets/Zonghao2025/safebench
+project_page: https://safebench-mm.github.io/
+license: check_official_repository
+access: open
+recommended_files:
+  - minibench.tar.gz
+  - category.csv
+  - sample.csv
+  - README.md
+local_status: minibench_downloaded
+last_checked: 2026-07-16
