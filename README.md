@@ -34,3 +34,6 @@
 
 - [Video-SafetyBench](datasets/video/Video-SafetyBench/README.md)
 
+## Omni-modal 数据集
+
+- [Omni-SafetyBench](datasets/omni/Omni-SafetyBench/README.md)
