@@ -28,5 +28,6 @@
 
 - [Jailbreak-AudioBench](datasets/audio/Jailbreak-AudioBench/README.md)
 - [AJailBench](datasets/audio/AJailBench/README.md)
+- [JALMBench](datasets/audio/JALMBench/README.md)
 
 
