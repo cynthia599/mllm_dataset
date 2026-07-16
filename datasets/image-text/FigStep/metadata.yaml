@@ -1,0 +1,41 @@
+name: FigStep
+
+full_name:
+  FigStep: Jailbreaking Large Vision-Language Models via Typographic Visual Prompts
+
+modality:
+  - image
+  - text
+
+task:
+  - multimodal jailbreak attack
+  - LVLM safety evaluation
+
+attack_type:
+  black_box
+  visual_typographic_prompt
+
+year:
+  2025
+
+venue:
+  AAAI 2025 Oral
+
+paper:
+  https://arxiv.org/abs/2311.05608
+
+code:
+  https://github.com/CryptoAILab/FigStep
+
+dataset:
+  https://github.com/CryptoAILab/FigStep
+
+format:
+  - png
+  - json
+
+local_status:
+  not_downloaded
+
+last_checked:
+  2026-07-16

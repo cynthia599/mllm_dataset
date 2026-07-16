@@ -1,0 +1,7 @@
+{
+  "id": "example_001",
+  "image": "example.png",
+  "text_prompt": "benign instruction",
+  "attack_type": "typographic_visual_prompt",
+  "source": "FigStep"
+}
