@@ -1,0 +1,62 @@
+name: JALMBench
+
+full_name:
+  Benchmarking Jailbreak Vulnerabilities in Audio Language Models
+
+modality:
+  - audio
+  - text
+
+task:
+  - audio language model safety evaluation
+  - jailbreak benchmark
+  - adversarial audio evaluation
+
+year:
+  2025
+
+num_text_samples:
+  2200
+
+num_audio_samples:
+  51381
+
+audio_hours:
+  268
+
+supported_models:
+  12
+
+attack_types:
+  - text_transferred_attack
+  - audio_originated_attack
+
+risk_categories:
+  - illegal_activity
+  - violence
+  - self_harm
+  - hate_speech
+  - privacy
+  - fraud
+  - cybersecurity
+  - sexual_content
+
+official_dataset:
+  https://huggingface.co/datasets/AnonymousUser000/JALMBench
+
+paper:
+  https://arxiv.org/abs/2505.17568
+
+format:
+  - wav
+  - json
+  - parquet
+
+access:
+  open
+
+local_status:
+  not_downloaded
+
+last_checked:
+  2026-07-16

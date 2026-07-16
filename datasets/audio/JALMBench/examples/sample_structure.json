@@ -1,0 +1,9 @@
+{
+  "id": "example_001",
+  "audio": "audio/example.wav",
+  "text_prompt": "[redacted harmful prompt]",
+  "attack_type": "tts_attack",
+  "category": "fraud",
+  "language": "English",
+  "speaker": "speaker_01"
+}
