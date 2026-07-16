@@ -5,14 +5,16 @@
 
 本仓库不重新分发原始大规模数据，仅提供：
 
-- 数据集介绍
-- 论文出处
-- 官方下载地址
-- 下载脚本
-- 数据读取示例
-- 数据集整理汇报
+* 数据集介绍
+* 论文出处
+* 官方下载地址
+* 下载脚本
+* 数据读取示例
+* 数据集整理汇报
 
 ## 图文类数据集
 
-- [MM-SafetyBench](datasets/image-text/MM-SafetyBench)
-- [JailBreakV-28K](datasets/image-text/JailBreakV-28K)
+* [MM-SafetyBench](datasets/image-text/MM-SafetyBench)
+* [JailBreakV-28K](datasets/image-text/JailBreakV-28K)
+* \[VLGuard](datasets/image-text/VLGuard)
+

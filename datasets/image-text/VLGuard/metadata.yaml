@@ -1,0 +1,21 @@
+name: VLGuard
+modality:
+  - image
+  - text
+task:
+  - safety fine-tuning
+  - multimodal safety evaluation
+  - safety alignment analysis
+venue: ICML 2024
+year: 2024
+sample_groups:
+  - safe_safes
+  - safe_unsafes
+  - unsafes
+official_dataset: https://huggingface.co/datasets/ys-zong/VLGuard
+official_code: https://github.com/ys-zong/VLGuard
+paper: https://arxiv.org/abs/2402.02207
+license: check_official_repository
+access: gated_or_login_required
+local_status: downloaded
+last_checked: 2026-07-16
